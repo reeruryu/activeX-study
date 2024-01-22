@@ -1,0 +1,7 @@
+C:\fileTest\FileWatcherCOM\bin\Debug\FileWatcherCOM.dll
+C:\fileTest\FileWatcherCOM\bin\Debug\FileWatcherCOM.pdb
+C:\fileTest\FileWatcherCOM\obj\Debug\FileWatcherCOM.csproj.AssemblyReference.cache
+C:\fileTest\FileWatcherCOM\obj\Debug\FileWatcherCOM.csproj.CoreCompileInputs.cache
+C:\fileTest\FileWatcherCOM\obj\Debug\FileWatcherCOM.dll
+C:\fileTest\FileWatcherCOM\obj\Debug\FileWatcherCOM.pdb
+C:\fileTest\FileWatcherCOM\bin\Debug\FileWatcherCOM.tlb

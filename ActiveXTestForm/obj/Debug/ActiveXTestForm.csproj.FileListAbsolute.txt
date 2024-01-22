@@ -1,0 +1,13 @@
+C:\fileTest\ActiveXTestForm\bin\Debug\ActiveXTestForm.exe.config
+C:\fileTest\ActiveXTestForm\bin\Debug\ActiveXTestForm.exe
+C:\fileTest\ActiveXTestForm\bin\Debug\ActiveXTestForm.pdb
+C:\fileTest\ActiveXTestForm\bin\Debug\FileWatcherCOM.dll
+C:\fileTest\ActiveXTestForm\bin\Debug\FileWatcherCOM.pdb
+C:\fileTest\ActiveXTestForm\obj\Debug\ActiveXTestForm.csproj.AssemblyReference.cache
+C:\fileTest\ActiveXTestForm\obj\Debug\ActiveXTestForm.Form1.resources
+C:\fileTest\ActiveXTestForm\obj\Debug\ActiveXTestForm.Properties.Resources.resources
+C:\fileTest\ActiveXTestForm\obj\Debug\ActiveXTestForm.csproj.GenerateResource.cache
+C:\fileTest\ActiveXTestForm\obj\Debug\ActiveXTestForm.csproj.CoreCompileInputs.cache
+C:\fileTest\ActiveXTestForm\obj\Debug\ActiveXTestForm.csproj.CopyComplete
+C:\fileTest\ActiveXTestForm\obj\Debug\ActiveXTestForm.exe
+C:\fileTest\ActiveXTestForm\obj\Debug\ActiveXTestForm.pdb
