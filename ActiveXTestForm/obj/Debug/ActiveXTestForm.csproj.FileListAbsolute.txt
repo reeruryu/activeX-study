@@ -11,3 +11,16 @@ C:\fileTest\ActiveXTestForm\obj\Debug\ActiveXTestForm.csproj.CoreCompileInputs.c
 C:\fileTest\ActiveXTestForm\obj\Debug\ActiveXTestForm.csproj.CopyComplete
 C:\fileTest\ActiveXTestForm\obj\Debug\ActiveXTestForm.exe
 C:\fileTest\ActiveXTestForm\obj\Debug\ActiveXTestForm.pdb
+C:\fileTest\git\ActiveXTestForm\bin\Debug\ActiveXTestForm.exe.config
+C:\fileTest\git\ActiveXTestForm\bin\Debug\ActiveXTestForm.exe
+C:\fileTest\git\ActiveXTestForm\bin\Debug\ActiveXTestForm.pdb
+C:\fileTest\git\ActiveXTestForm\bin\Debug\FileWatcherCOM.dll
+C:\fileTest\git\ActiveXTestForm\bin\Debug\FileWatcherCOM.pdb
+C:\fileTest\git\ActiveXTestForm\obj\Debug\ActiveXTestForm.csproj.AssemblyReference.cache
+C:\fileTest\git\ActiveXTestForm\obj\Debug\ActiveXTestForm.Form1.resources
+C:\fileTest\git\ActiveXTestForm\obj\Debug\ActiveXTestForm.Properties.Resources.resources
+C:\fileTest\git\ActiveXTestForm\obj\Debug\ActiveXTestForm.csproj.GenerateResource.cache
+C:\fileTest\git\ActiveXTestForm\obj\Debug\ActiveXTestForm.csproj.CoreCompileInputs.cache
+C:\fileTest\git\ActiveXTestForm\obj\Debug\ActiveXTestForm.csproj.CopyComplete
+C:\fileTest\git\ActiveXTestForm\obj\Debug\ActiveXTestForm.exe
+C:\fileTest\git\ActiveXTestForm\obj\Debug\ActiveXTestForm.pdb

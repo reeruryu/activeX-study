@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 using System.Runtime.InteropServices;
 
 namespace FileWatcherCOM
@@ -10,7 +11,7 @@ namespace FileWatcherCOM
     {
         string Path { get; set; }
 
-        string Hi();
+        Task<string> CopyFile(string destPath);
 
     }
 }

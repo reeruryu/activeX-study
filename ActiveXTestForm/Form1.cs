@@ -16,18 +16,17 @@ namespace ActiveXTestForm
         public Form1()
         {
             InitializeComponent();
-
             fileWatcher = new FileWatcher();
-            fileWatcher.FileCreated += FileWatcher_FileCreated;
+            fileWatcher.FileCreated += HandleCreatedEvent;
         }
 
-        private void FileWatcher_FileCreated(string path)
+        private void HandleCreatedEvent(string filePath)
         {
-            fileWatcher.Path = path;
+            fileWatcher.Path = filePath;
+            //fileWatcher.CopyFile(filePath);
 
-            // Handle the event
-            MessageBox.Show(path);
-
+            // 이벤트를 처리하는 코드를 작성
+            MessageBox.Show($"File created: {filePath}");
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -102,5 +101,6 @@ namespace ActiveXTestForm
                 MessageBox.Show($"Error loading image: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
     }
 }
